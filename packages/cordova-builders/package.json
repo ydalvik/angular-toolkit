@@ -36,10 +36,10 @@
   ],
   "dependencies": {
     "@angular-devkit/architect": "^0.1600.5",
-		"@angular-devkit/build-angular": "^16.0.5",
-		"@angular-devkit/core": "^16.0.5",
-		"@angular-devkit/schematics": "^16.0.5",
-		"@schematics/angular": "^16.0.5"
+    "@angular-devkit/build-angular": "^16.0.5",
+     "@angular-devkit/core": "^16.0.5",
+     "@angular-devkit/schematics": "^16.0.5",
+     "@schematics/angular": "^16.0.5",
     "cheerio": "^1.0.0-rc.10",
     "colorette": "^2.0.16",
     "copy-webpack-plugin": "^9.0.1",
